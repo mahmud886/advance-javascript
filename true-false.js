@@ -1,14 +1,14 @@
-//falsy;
-//false
-//0;
-//""
-//undefined 
-//NaN
-//Truthy
-// Always false
+falsy;
+false
+0;
+""
+undefined 
+NaN
+Truthy
+Always false
 
 
-// const name = "Solaiman Khan";
+const name = "Solaiman Khan";
 let name = null;
 console.log(name);
 
