@@ -1,11 +1,11 @@
-falsy;
-false
-0;
-""
-undefined 
-NaN
-Truthy
-Always false
+// falsy;
+// false
+// 0;
+// ""
+// undefined 
+// NaN
+// Truthy
+// Always false
 
 
 const name = "Solaiman Khan";
